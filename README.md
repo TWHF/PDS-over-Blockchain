@@ -1,1 +1,3 @@
 # PDS-over-Blockchain
+PDS Design Model 
+The PDS (Public Distribution System) consists of Central Government and State Government. The Central Government is the highest authority of the network. An asset “central - state” can be created to show transactions between central and state. At the central Government level, the asset can be created and sent through a blockchain network to state address. The price details of each commodity and authorized ration shops details can be added at the higher levels. The State government will receive the asset and the ledger will confit, the transaction. This system can be expanded at multiple levels till the beneficiary. The central government can track all the food grain distribution details till it reaches the last beneficiary.
